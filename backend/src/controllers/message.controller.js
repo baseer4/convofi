@@ -1,6 +1,6 @@
-import User from "../models/users.model";
+import User from "../models/users.model.js";
 import Message from "../models/message.model.js";
-import cloudinary from "../lib/cloudinary";
+import cloudinary from "../lib/cloudinary.js";
 
 export const getUserforSidebar = async (req,res) =>{
     try {
