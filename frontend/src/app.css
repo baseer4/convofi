@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Train+One&display=swap');
 @import "tailwindcss";
-@plugin "daisyui";
+@plugin "daisyui" {
+    themes:all
+  }
 
 @theme{
     --font-secondary:"Train One", system-ui;
