@@ -49,7 +49,7 @@ export const sendMessage =async(req,res) => {
             senderId,
             receiverId,
             text,
-            image:imageurl,
+            image: imageUrl,
         });
 
         await  newMessage.save();
