@@ -61,7 +61,7 @@ export const useAuthStore = create((set,get)=> ({
         }
     },
 
-    login:async ()=>{
+    login:async (data)=>{
         set({isLoggingIn:true});
         try {
             const res = await axiosInstance.post("/auth/login", data);
@@ -101,6 +101,6 @@ export const useAuthStore = create((set,get)=> ({
     },
 
     disconnectSocket: () =>{
-        if(get().socket?.connected) get().socket.disconnectSocket;
+        if(get().socket?.connected) get().socket.disconnect();
     }
 }));
