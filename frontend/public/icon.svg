@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect style="stroke-linejoin: bevel; stroke-linecap: square; stroke-dashoffset: -4px; stroke: rgb(0, 0, 0); fill: rgba(0, 0, 0, 0.925);" x="87.146" y="102.792" width="325.707" height="294.416" rx="50" ry="50"/>
+  <ellipse style="paint-order: stroke markers; fill-rule: nonzero; stroke-width: 35px; fill: rgba(255, 255, 255, 0.01); stroke: rgb(255, 255, 255);" cx="250" cy="250" rx="100.586" ry="97.393"/>
+  <rect x="240.456" y="113.686" width="144.972" height="152.636" style="stroke: rgb(0, 0, 0);"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" transform="matrix(4.586153, 0, 0, 4.511675, -1091.205777, -701.102334)" x="295.379" y="208.206">Fi</text>
+</svg>
