@@ -21,8 +21,27 @@ Convofi is a real-time chat app built using the MERN stack, with a clean UI powe
 ---
 
 ## 🖼️ Screenshots
+<h3 align="center">Login Page</h3>
+<p align="center">
+  <img src="screenshots/Login_Page.png" alt="Login Page" />
+</p>
 
-![login](screenshots/Login_Page.png) 
+<h3 align="center">Chatting UI</h3>
+<p align="center">
+  <img src="screenshots/Chat_Example.png" alt="Chat Example" />
+</p>
+
+<h3 align="center">Profile Page</h3>
+<p align="center">
+  <img src="screenshots/Profile_Page.png" alt="Profile Page" />
+</p>
+
+<h3 align="center">Themes Page</h3>
+<p align="center">
+  <img src="screenshots/Themes_Page.png" alt="Themes Page" />
+</p>
+
+
 
 
 ---
